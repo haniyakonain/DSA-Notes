@@ -1,7 +1,8 @@
 # Backtracking
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230214215625/backtracking.jpg" width="100%" alt="Backtracking algorithm illustration"/>
-
+<div align="center">
+<img src="../assets/images/backtracking.jpg" width="auto" alt="Backtracking algorithm illustration"/>
+</div>
 Backtracking is an algorithmic-technique for solving problems recursively by trying to build a solution **_incrementally_** and **_removing those solutions that fail_** to satisfy the constraints of the problem.
 
 **Backtracking can be defined as a general algorithmic technique that considers searching every possible combination in order to solve a computational problem.**
