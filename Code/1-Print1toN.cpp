@@ -7,7 +7,7 @@ void Print1toN(int i, int n)
 {
     if (i >= n)
         return;
-    cout << "Mansoor" << endl;
+    cout << i << endl;
     Print1toN(i + 1, n);
 }
 
