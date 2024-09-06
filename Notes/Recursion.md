@@ -1,7 +1,7 @@
 # Recursion
 
 <div align="center">
-  <img src="../Images/Recursion.jpeg" alt="Alt text" width="300">
+  <img src="../assets/images/Recursion.jpeg" alt="Alt text" width="300">
 </div>
 
 - Recursion occurs when a function calls itself until a certain condition is met.
