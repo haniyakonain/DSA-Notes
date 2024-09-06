@@ -1,5 +1,9 @@
 # Recursion
 
+<div align="center">
+  <img src="../Images/Recursion.jpeg" alt="Alt text" width="300">
+</div>
+
 - Recursion occurs when a function calls itself until a certain condition is met.
 - It is a way to solve problems by breaking them down into smaller instances of the same problem.
 - Recursion is often used when a problem can be divided into smaller problems, and the same solution applies to each of them.
