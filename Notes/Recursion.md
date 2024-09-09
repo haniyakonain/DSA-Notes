@@ -1,13 +1,14 @@
 # Recursion
 
-<div align="center">
-  <img src="../assets/images/Recursion.jpeg" alt="Alt text" width="300">
-</div>
-
 - Recursion occurs when a function calls itself until a certain condition is met.
 - It is a way to solve problems by breaking them down into smaller instances of the same problem.
 - Recursion is often used when a problem can be divided into smaller problems, and the same solution applies to each of them.
 - **_When a function calls itself recursively without an exit condition, it can cause a stack overflow._**
+
+<div align="center">
+  <img src="../assets/images/Recursion.jpeg" alt="Recursion Illustration" width="300">
+</div>
+
 - A stack is a data structure that stores information about function calls.
 - If the stack becomes too large, it can cause a stack overflow.
 - This issue is common in languages like C and C++ because they lack automatic memory management.

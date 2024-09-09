@@ -3,12 +3,12 @@
 #include <iostream>
 using namespace std;
 
-void Print1toN(int i, int n)
+void Print1toN(int start, int end)
 {
-    if (i >= n)
+    if (start >= end)
         return;
-    cout << i << endl;
-    Print1toN(i + 1, n);
+    cout << start << endl;
+    Print1toN(start + 1, end);
 }
 
 int main()
